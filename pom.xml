@@ -13,8 +13,8 @@
 	<name>nosql-injection-vulnapp-mongodb-java</name>
 	<description>An app vulnerable to NoSQL injection built with a MongoDB database and the official Java driver</description>
 	<properties>
-		<java.version>11</java.version>
-	</properties>
+  <sonar.organization>sectesting22</sonar.organization>
+</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
